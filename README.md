@@ -1,4 +1,4 @@
-# 🧬 PharmaGuard — AI Pharmacogenomic Risk Predictor:
+# 🧬 PharmaGuard — AI Pharmacogenomic Risk Predictor :
 
 > **Personalized medicine powered by genomics + AI**
 
